@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
         borderRadius: 6,
         fontSize: 36,
         color: Colors.accent500,
-        fontWeight: 'bold',
-        textAlign: 'center'
+        textAlign: 'center',
+        fontFamily: 'open-sans-bold'
     }
 })
